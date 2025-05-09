@@ -15,7 +15,7 @@ const collections = [
 
     {
         "id": 3,
-        "cover_path": "cover/mextasis_2023.jpg",
+        "cover_path": "cover/mextasis_2023.JPG",
         "year": 2023,
         "name": "Mextasis"
     },
