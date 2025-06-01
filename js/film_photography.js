@@ -222,19 +222,19 @@ const photos = [
     {
         "id_collection": 1,
         "id": 46,
-        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0041.jpg",
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0020.jpg",
         "description": ""
     },
     {
         "id_collection": 1,
         "id": 47,
-        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0002.jpg",
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0011.jpg",
         "description": ""
     },
     {
         "id_collection": 1,
         "id": 48,
-        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0003.jpg",
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0012.jpg",
         "description": ""
     },
     {
@@ -268,6 +268,167 @@ const photos = [
         "description": ""
     },
 
+     {
+        "id_collection": 1,
+        "id": 54,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0013.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 55,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0015.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 56,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0016.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 57,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0017.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 58,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0018.jpg",
+        "description": ""
+    },
+
+         {
+        "id_collection": 1,
+        "id": 59,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0019.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 60,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0021.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 61,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0023.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 62,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0025.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 63,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0026.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 64,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0028.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 65,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0031.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 66,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0032.jpg",
+        "description": ""
+    },
+
+         {
+        "id_collection": 1,
+        "id": 67,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0033.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 68,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0036.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 69,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0037.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 70,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0038.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 71,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0039.jpg",
+        "description": ""
+    },
+
+    {
+        "id_collection": 1,
+        "id": 72,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0040.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 73,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0042.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 74,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0046.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 75,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0050.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 76,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0053.jpg",
+        "description": ""
+    },
+
+         {
+        "id_collection": 1,
+        "id": 77,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0054.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 78,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0055.jpg",
+        "description": ""
+    },
+    {
+        "id_collection": 1,
+        "id": 79,
+        "path": "photos/Mextasis 2021/nicolas cabra_20211201_0061.jpg",
+        "description": ""
+    },
+    
     {
         "id_collection": 2,
         "id": 54,
