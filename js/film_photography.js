@@ -469,7 +469,7 @@ const photos = [
     {
         "id_collection": 2,
         "id": 60,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0025.jpg",
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0007.jpg",
         "description": " "
     },
     {
@@ -562,7 +562,144 @@ const photos = [
         "path": "photos/Europe 2021/NicolasCabra_20211109_0002.jpg",
         "description": " "
     },
-   
+     {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
+         {
+        "id_collection": ,
+        "id": ,
+        "path": "photos/Darien/DARIEN/",
+        "description": " "
+    },
 ];
 
 
