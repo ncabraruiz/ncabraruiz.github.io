@@ -8,7 +8,7 @@ const collections = [
 
     {
         "id": 2,
-        "cover_path": "photos/Europe 2021NicolasCabra_20211109_0020.jpg",
+        "cover_path": "photos/Europe 2021/NicolasCabra_20211109_0020.jpg",
         "year": 2021,
         "name": "Europe"
     },
@@ -29,7 +29,7 @@ const collections = [
 
     {
         "id": 5,
-        "cover_path": "photos/Denver 2023Nicolás C._20230524_0066.jpg",
+        "cover_path": "photos/Denver 2023/Nicolás C._20230524_0066.jpg",
         "year": 2023,
         "name": "Denver"
     },
@@ -71,7 +71,7 @@ const collections = [
 
     {
         "id": 11,
-        "cover_path": "photos/Bogotá/Nicolas C_20240214_0061",
+        "cover_path": "photos/Bogotá/Nicolas C_20240214_0061.jpg",
         "year": "Siempre",
         "name": "Bogotá"
     },
