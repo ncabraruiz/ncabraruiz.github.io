@@ -13,6 +13,20 @@ const collections = [
         "name": "Europe"
     },
 
+        {
+        "id": 9,
+        "cover_path": "photos/Darien/DARIEN/4869 (35).jpg",
+        "year": "2021",
+        "name": "Darién"
+    },
+
+    {
+        "id": 10,
+        "cover_path": "photos/Chile - 2022/Nicolas Cabra_20220909_0024.jpg",
+        "year": 2022,
+        "name": "Chile"
+    },
+
     {
         "id": 3,
         "cover_path": "photos/Mextasis - 2023/IMG_7653.JPG",
@@ -55,19 +69,6 @@ const collections = [
         "name": "Buenos Aires"
     },
 
-    {
-        "id": 9,
-        "cover_path": "photos/Darien/DARIEN/4869 (35).jpg",
-        "year": "2021",
-        "name": "Darién"
-    },
-
-    {
-        "id": 10,
-        "cover_path": "photos/Chile - 2022/Nicolas Cabra_20220909_0024.jpg",
-        "year": 2022,
-        "name": "Chile"
-    },
 
     {
         "id": 11,
