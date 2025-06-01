@@ -69,7 +69,6 @@ const collections = [
         "name": "Buenos Aires"
     },
 
-
     {
         "id": 11,
         "cover_path": "photos/Bogotá/Nicolas C_20240214_0061.jpg",
@@ -85,259 +84,127 @@ const photos = [
     {
         "id_collection": 11,
         "id": 1,
-        "path": "photos/Bogotá/Nicolas_C_20240214_0059.jpg",
+        "path": "photos/Bogotá/Nicolas C_20240214_0061.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 2,
-        "path": "photos/Bogotá/Nicolas_C_20240214_0060.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0034.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 3,
-        "path": "photos/Bogotá/Nicolas_C_20240214_0061.jpg",
+        "path": "photos/Bogotá/BN20241226_08.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 4,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0029.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0033.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 5,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0030.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0103.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 6,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0032.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0111.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 7,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0035.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0112.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 8,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0036.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0117.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 9,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0037.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0118.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 10,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0038.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0119.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 11,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0039.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0128.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 12,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0040.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0129.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 13,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0041.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0120.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 14,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0047.jpg",
+        "path": "photos/Bogotá/Nicolás C._20230524_0132.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 15,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0048.jpg",
+        "path": "photos/Bogotá/Nicolas C_20240214_0059.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 16,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0049.jpg",
+        "path": "photos/Bogotá/NicolasCabra_20211109_0032.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 17,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0050.jpg",
+        "path": "photos/Bogotá/NicolasCabra_20211109_0035.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 18,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0051.jpg",
+        "path": "photos/Bogotá/NicolasCabra_20211109_0037.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 19,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0052.jpg",
+        "path": "photos/Bogotá/NicolasCabra_20211109_0038.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 20,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0053.jpg",
+        "path": "photos/Bogotá/NicolasCabra_20211109_0041.jpg",
         "description": ""
     },
     {
         "id_collection": 11,
         "id": 21,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0054.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 22,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0055.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 23,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0056.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 24,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0057.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 25,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0058.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 26,
-        "path": "photos/Bogotá/NicolasCabra_20211109_0059.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 27,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0033.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 28,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0034.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 29,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0099.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 30,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0100.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 31,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0101.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 32,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0109.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 33,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0110.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 34,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0111.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 35,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0112.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 36,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0113.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 37,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0114.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 38,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0115.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 39,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0116.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 40,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0117.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 41,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0118.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 42,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0119.jpg",
-        "description": ""
-    },
-    {
-        "id_collection": 11,
-        "id": 43,
-        "path": "photos/Bogotá/Nicolás_C_20230524_0120.jpg",
+        "path": "photos/Bogotá/NicolasCabra_20211109_0047.jpg",
         "description": ""
     },
     {
