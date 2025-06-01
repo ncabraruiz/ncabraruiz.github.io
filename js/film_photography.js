@@ -1,87 +1,82 @@
 const collections = [
     {
         "id": 1,
-        "cover_path": "cover/mextasis_2021.jpg",
+        "cover_path": "photos/Mextasis 2021/nicolas cabra_20211201_0009.jpg",
         "year": 2021,
-        "name": "Mextasis"
+        "name": "Méxtasis"
     },
 
     {
         "id": 2,
-        "cover_path": "cover/europe_2021.jpg",
+        "cover_path": "photos/Europe 2021NicolasCabra_20211109_0020.jpg",
         "year": 2021,
         "name": "Europe"
     },
 
     {
         "id": 3,
-        "cover_path": "cover/mextasis_2023.JPG",
+        "cover_path": "photos/Mextasis - 2023/IMG_7653.JPG",
         "year": 2023,
-        "name": "Mextasis"
+        "name": "Méxtasis"
     },
 
     {
         "id": 4,
-        "cover_path": "cover/europe_2023.jpg",
+        "cover_path": "photos/Europe 2023/Nicolas C_20240106_0011.jpg",
         "year": 2023,
         "name": "Europe"
     },
 
     {
         "id": 5,
-        "cover_path": "cover/denver_2023.jpg",
+        "cover_path": "photos/Denver 2023Nicolás C._20230524_0066.jpg",
         "year": 2023,
         "name": "Denver"
     },
 
     {
         "id": 6,
-        "cover_path": "cover/mendihuaca_2023.jpg",
+        "cover_path": "photos/Mendihuaca - 2023/Nicolás C._20230524_0108.jpg",
         "year": 2023,
         "name": "Mendihuaca"
     },
 
     {
         "id": 7,
-        "cover_path": "cover/metrallo_2024.jpg",
+        "cover_path": "photos/Metrallo 2024 January/Nicolas C_20240214_0055.jpg",
         "year": 2024,
-        "name": "Metrallo"
+        "name": "MD"
     },
 
     {
         "id": 8,
-        "cover_path": "cover/buenos_aires_2024.jpg",
+        "cover_path": "photos/Buenos Aires - 2024/BN20241228_04.jpg",
         "year": 2024,
         "name": "Buenos Aires"
     },
 
     {
         "id": 9,
-        "cover_path": "cover/darien.jpg",
-        "year": "",
-        "name": "Darien"
+        "cover_path": "photos/Darien/DARIEN/4869 (35).jpg",
+        "year": "2021",
+        "name": "Darién"
     },
 
     {
         "id": 10,
-        "cover_path": "cover/chile_2022.jpg",
+        "cover_path": "photos/Chile - 2022/Nicolas Cabra_20220909_0024.jpg",
         "year": 2022,
         "name": "Chile"
     },
 
     {
         "id": 11,
-        "cover_path": "cover/bogota.jpg",
-        "year": "",
+        "cover_path": "photos/Bogotá/Nicolas C_20240214_0061",
+        "year": "Siempre",
         "name": "Bogotá"
     },
 
-    {
-        "id": 12,
-        "cover_path": "cover/dec_2024_may_2023.jpg",
-        "year": "",
-        "name": "DEC 2024 - MAY 2023"
-    }
+   
 ];
 
 
