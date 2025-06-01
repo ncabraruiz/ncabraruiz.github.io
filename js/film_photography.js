@@ -207,6 +207,19 @@ const photos = [
         "path": "photos/Bogotá/NicolasCabra_20211109_0047.jpg",
         "description": ""
     },
+        {
+        "id_collection": 11,
+        "id": 99,
+        "path": "photos/Bogotá/conjhon_2_2025.jpg",
+        "description": ""
+    },
+        {
+        "id_collection": 11,
+        "id": 100,
+        "path": "photos/Bogotá/conjhon_1_2025.jpg",
+        "description": ""
+    },
+
     {
         "id_collection": 1,
         "id": 44,
