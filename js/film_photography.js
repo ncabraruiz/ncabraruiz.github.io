@@ -432,196 +432,137 @@ const photos = [
     {
         "id_collection": 2,
         "id": 54,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0001.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0020.jpg",
+        "description": ""
     },
     {
         "id_collection": 2,
         "id": 55,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0002.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0018.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 56,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0003.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0017.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 57,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0004.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0017.jpg",
+        "description": " "
     },
 
     {
         "id_collection": 2,
         "id": 58,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0005.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0013.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 59,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0006.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0007.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 60,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0007.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0025.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 61,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0008.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0006.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 62,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0009.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0019.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 63,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0010.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0004.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 64,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0011.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0021.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 65,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0012.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0008.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 66,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0013.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0003.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 67,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0014.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0012.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 68,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0015.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0016.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 69,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0016.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0013.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 70,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0017.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0015.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 71,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0018.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0016.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 72,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0019.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0019.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 73,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0020.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211110_0026.jpg",
+        "description": " "
+    },
+     {
+        "id_collection": 2,
+        "id": 74,
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0008.jpg",
+        "description": " "
     },
     {
         "id_collection": 2,
         "id": 74,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0021.jpg",
-        "description": "Lorem ipsum dom dollar"
+        "path": "photos/Europe 2021/NicolasCabra_20211109_0002.jpg",
+        "description": " "
     },
-    {
-        "id_collection": 2,
-        "id": 75,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0022.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 76,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0023.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 77,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0024.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 78,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0025.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 79,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0026.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 80,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0027.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 81,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0028.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 82,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0029.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 83,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0030.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 84,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0031.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
-    {
-        "id_collection": 2,
-        "id": 85,
-        "path": "photos/Europe 2021/NicolasCabra_20211109_0032.jpg",
-        "description": "Lorem ipsum dom dollar"
-    },
+   
 ];
 
 
