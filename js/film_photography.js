@@ -791,6 +791,387 @@ const photos = [
         "path": "photos/Darien/DARIEN/4869 (39).jpg",
         "description": " "
     },
+
+    {
+        "id_collection":10 ,
+        "id":1 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0034.jpg",
+        "description": " "
+    },
+
+        {
+        "id_collection":10 ,
+        "id": 2 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0005.jpg",
+        "description": " "
+    },
+
+        {
+        "id_collection":10 ,
+        "id": 3 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0038.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":4 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0006.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":5 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0037.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":6 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0001.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id": 7 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0031.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":8 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0007.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":9 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0023.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":10 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0009.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":11,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0022.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":12 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0012.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":13 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0033.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":14 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0013.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":15 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0014.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":16 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0016.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":17 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0006.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":18 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0022.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":19 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0004.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":20 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0025.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":21 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0008.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":22 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0024.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":23 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0010.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":24 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0027.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":25 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0015.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":26 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0028.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":27 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0016.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":28 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0034.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":29 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0018.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":30 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0037.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":31 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0019.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":32 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0039.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":33 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0005.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":34 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0042.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":35 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0021.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":36 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0046.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":37 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0024.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":38 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0047.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":39 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0049.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":40 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0030.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":41 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0048.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":42 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0036.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":43 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0055.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":44 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0032.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":45 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0060.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":46 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0027.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":47 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0064.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":47 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0025.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":48 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0066.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":49 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0003.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":50 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0067.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":51 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0007.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":52 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0069.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":53 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0026.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":54 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0072.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":55 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0029.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":56 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0073.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":57 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_00035.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":58 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0075.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":59 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0076.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":60 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220908_0010.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":61 ,
+        "path": "photos/Chile - 2022/Nicolas BYN_20220909_0023.jpg",
+        "description": " "
+    },
+        {
+        "id_collection":10 ,
+        "id":62 ,
+        "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0001.jpg",
+        "description": " "
+    },
    
 ];
 
