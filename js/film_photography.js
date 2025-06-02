@@ -629,8 +629,7 @@ const photos = [
         "path": "photos/Darien/DARIEN/4868 (19).jpg",
         "description": " "
     },
-  
-         {
+    {
         "id_collection":9 ,
         "id":10 ,
         "path": "photos/Darien/DARIEN/4868 (23).jpg",
@@ -786,7 +785,7 @@ const photos = [
         "path": "photos/Darien/DARIEN/4869 (36).jpg",
         "description": " "
     },
-                {
+    {
         "id_collection":9 ,
         "id":36 ,
         "path": "photos/Darien/DARIEN/4869 (39).jpg",
