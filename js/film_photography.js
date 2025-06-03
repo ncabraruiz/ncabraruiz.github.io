@@ -1171,8 +1171,7 @@ const photos = [
         "id":62 ,
         "path": "photos/Chile - 2022/Nicolas Cabra_20220909_0001.jpg",
         "description": " "
-    },
-   
+    },  
 ];
 
 
