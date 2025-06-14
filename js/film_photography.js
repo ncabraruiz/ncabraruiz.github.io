@@ -582,37 +582,37 @@ const photos = [
         "description": " "
     },
          {
-        "id_collection":9 ,
+        "id_collection": 9 ,
         "id":2 ,
         "path": "photos/Darien/DARIEN/4868 (27).jpg",
         "description": " "
     },
          {
-        "id_collection":9 ,
+        "id_collection": 9 ,
         "id": 3,
         "path": "photos/Darien/DARIEN/4868 (28).jpg",
         "description": " "
     },
           {
-        "id_collection":9 ,
+        "id_collection": 9 ,
         "id":4,
         "path": "photos/Darien/DARIEN/4868 (30).jpg",
         "description": " "
     },
            {
-        "id_collection":9 ,
+        "id_collection": 9 ,
         "id":5 ,
         "path": "photos/Darien/DARIEN/4868 (22).jpg",
         "description": " "
     },
          {
-        "id_collection":9 ,
+        "id_collection": 9 ,
         "id":6 ,
         "path": "photos/Darien/DARIEN/4868 (2).jpg",
         "description": " "
     },
          {
-        "id_collection":9 ,
+        "id_collection": 9 ,
         "id":7 ,
         "path": "photos/Darien/DARIEN/4868 (3).jpg",
         "description": " "
