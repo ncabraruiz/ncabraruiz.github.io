@@ -26,8 +26,8 @@ const publications = [
     publication: "<b>Documento CEDE</b>, (36) (2023)",
     date: "2023-01-01",
     type: "working_paper",
-    link: "https://example.com",
-    dataset: "https://example.com"
+    link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640151",
+    dataset: "https://datahub.uniandes.edu.co/dataset.xhtml?persistentId=doi:10.57924/XNHDBQ"
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const publications = [
     publication: "<b>Documentos CEDE</b> 20683, Universidad de los Andes, Facultad de Economía – CEDE (2023)",
     date: "2023-01-01",
     type: "working_paper",
-    link: "https://example.com",
+    link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4402335",
     dataset: null
   },
   {
@@ -46,7 +46,7 @@ const publications = [
     publication: "<b>Econografos - Escuela de Economía</b> 017286, Universidad Nacional de Colombia-FCE-CID (2019)",
     date: "2019-01-01",
     type: "working_paper",
-    link: "https://example.com",
+    link: "https://ideas.repec.org/p/col/000176/017286.html",
     dataset: null
   },
   {
@@ -56,7 +56,7 @@ const publications = [
     publication: "<b>Econografos – Facultad de Ciencias Económicas</b> 017215, Universidad Nacional de Colombia (2019)",
     date: "2019-01-01",
     type: "working_paper",
-    link: "https://example.com",
+    link: "https://econpapers.repec.org/paper/col000176/017215.htm",
     dataset: null
   },
   {
@@ -66,7 +66,7 @@ const publications = [
     publication: "<b>Econografos Escuela de Economía</b> 017223, Universidad Nacional de Colombia (2019)",
     date: "2019-01-01",
     type: "working_paper",
-    link: "https://example.com",
+    link: "https://ideas.repec.org/p/col/000176/017223.html",
     dataset: null
   },
   {
@@ -76,7 +76,7 @@ const publications = [
     publication: "<b>Econografos Escuela de Economía</b> 017236, Universidad Nacional de Colombia (2019)",
     date: "2019-01-01",
     type: "working_paper",
-    link: "https://example.com",
+    link: "https://ideas.repec.org/p/col/000176/017236.html",
     dataset: null
   },
   {
@@ -86,7 +86,7 @@ const publications = [
     publication: "<b>Econografos - Escuela de Economía</b> 017392, Universidad Nacional de Colombia (2019)",
     date: "2019-01-01",
     type: "working_paper",
-    link: "https://example.com",
+    link: "https://ideas.repec.org/p/col/000176/017392.html",
     dataset: null
   },
   {
@@ -96,7 +96,7 @@ const publications = [
     publication: "<b>Econografos - Escuela de Economía</b> 017437, Universidad Nacional de Colombia (2019)",
     date: "2019-01-01",
     type: "working_paper",
-    link: "https://example.com",
+    link: "https://ideas.repec.org/p/col/000176/017437.html",
     dataset: null
   }
 ];
