@@ -98,6 +98,46 @@ const publications = [
     type: "working_paper",
     link: "https://ideas.repec.org/p/col/000176/017437.html",
     dataset: null
+  },
+  {
+    id: 11,
+    title: "Organized Crime and Development",
+    authors: "Cabra-Ruiz, N., Sviatschi, M. M., Tobón, S.",
+    publication: "<b>VoxDevLit</b>, Volume 17, Issue 1 (2025)",
+    date: "2025-01-01",
+    type: "other",
+    link: "https://voxdev.org/voxdevlit/organised-crime",
+    dataset: null
+  },
+  {
+    id: 12,
+    title: "Justice Fair Play Initiative: The Key to Improving Justice Delivery in Colombia",
+    authors: "Cabra-Ruiz, N. et al.",
+    publication: "<b>Adrienne Arsht Latin American Center, Atlantic Council</b> (2024)",
+    date: "2024-01-01",
+    type: "other",
+    link: "https://www.atlanticcouncil.org/in-depth-research-reports/report/justice-fair-play-initiative-the-key-to-improving-justice-delivery-in-colombia/",
+    dataset: null
+  },
+  {
+    id: 13,
+    title: "Inclusive Economic Growth For Sustainable Peace? An evaluation of development mechanism and conservation efforts in post-conflict Colombia",
+    authors: "Cabra-Ruiz, N. et al.",
+    publication: "<b>U.S. National Academy of Sciences / USAID</b> (2023)",
+    date: "2023-06-01",
+    type: "other",
+    link: "https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_380033.pdf",
+    dataset: null
+  },
+  {
+    id: 14,
+    title: "The baseline for a performance evaluation of the Amazon Alive activity in Colombia",
+    authors: "Cabra-Ruiz, N. et al.",
+    publication: "<b>USAID/Colombia Monitoring, Evaluation and Learning Activity</b> (2023)",
+    date: "2023-01-01",
+    type: "other",
+    link: null,
+    dataset: null
   }
 ];
 
